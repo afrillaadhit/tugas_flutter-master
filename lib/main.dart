@@ -4,7 +4,6 @@ import 'package:tugas_flutter/data/service.dart';
 import 'package:tugas_flutter/profil/login.dart';
 
 import 'data/service.dart';
-import 'data/service.dart';
 
 void main() {
   runApp(MyApp());
